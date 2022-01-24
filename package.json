@@ -1,0 +1,29 @@
+{
+  "name": "dpress",
+  "version": "1.0.0",
+  "description": "A minimalist web framework for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "user": "nodemon user.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CongDat249/dpress.git"
+  },
+  "keywords": [
+    "web-framework",
+    "nodejs",
+    "javscript"
+  ],
+  "author": "congdat <datdev2409@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CongDat249/dpress/issues"
+  },
+  "homepage": "https://github.com/CongDat249/dpress#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
